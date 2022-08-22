@@ -19,6 +19,7 @@ public static void main(String[] args) {
 	int a[]= {35,30,40,55};
 	
 	min(a);
+	System.out.println(a.length);
 	
 	System.out.println(min(a));
 	
